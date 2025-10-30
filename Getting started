@@ -1,0 +1,13 @@
+1)install node
+
+2)install vscode
+
+3)live preview , live server, prettier(format on save) ,  
+
+4)npm create vite@4.4.1  or @latest
+
+     -->name project name
+     -->select frameword -->react
+     -->select variant   -->js
+5)cd filename  --> npm install -->npm run dev
+6)
