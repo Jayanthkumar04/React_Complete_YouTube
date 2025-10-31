@@ -1,0 +1,54 @@
+1)install node
+
+2)install vscode
+
+3)live preview , live server, prettier(format on save) ,  
+
+4)npm create vite@4.4.1  or @latest
+
+     -->name project name
+     -->select frameword -->react
+     -->select variant   -->js
+
+
+5)cd filename  --> npm install -->npm run dev
+
+6)eslint ==> tool which says any errors are there
+7)package.json ==> all info about project are present here
+8)package-lock.json ==> what dependecies are being finally used are available here
+
+9)jsx ==> javascript xtension  whick includes js with html
+
+10)componnent is just js function
+
+
+11)
+Types of components(2):
+1)functional components==> intially stateless
+                           can use hooks for states and effects.
+                           simpler and more consise
+2)class components
+
+12)jsx code converts to js before going to browswer
+
+13)babeljs.io/repl is tool used to see how jsx code is converted to js
+
+13)exporting named exports
+export function Hello(){
+}
+import {JayButton} from .....
+
+14){} ==> dynamic content
+inside this bracked we can use js variables and functions
+
+15)features of components ==> 1)modularity 2)consistency 3)efficiency 4)maintainability
+
+16)bootstrap==>
+    npm i bootstrap@5.3.2
+    import
+    import "bootstrap/dist/css/bootstrap.min.css"
+
+17)
+
+
+
