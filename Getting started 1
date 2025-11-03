@@ -48,7 +48,18 @@ inside this bracked we can use js variables and functions
     import
     import "bootstrap/dist/css/bootstrap.min.css"
 
-17)
+17)Fragments
+  ==> allows group of elements without extra DOM
+  ==> cleaner dom 
+  ==> <React.Fragment></> or   <></> import React from react
 
 
+18)Map Method
+   ==> renders list from array data
+   ==>tranforms array items into jsx
+        {items.map((item)=>(
+            <li key={item}>{item}</li>)
+            )}
+  ==>assign key for optimized re-renders
+19)Conditional rendering
 
