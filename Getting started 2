@@ -1,1 +1,9 @@
 1)Passing data via props
+
+
+
+
+
+==>parent to child (pass props)
+
+==>child to parent (emit event)
